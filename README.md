@@ -1,2 +1,3 @@
 # ProyectoEjemplo
-Repositorio del curso de GitHub
+Repositorio del curso de GitHub 
+Autor : Juan Manuel GuerreroLOpez
